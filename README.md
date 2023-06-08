@@ -54,7 +54,7 @@ If we have any extra questions for you, or if we need any extra data to make sur
 
 <!-- CONTACT -->
 ## Contact
-Please contact me via email at alexandru.c@qpg.ro <br>
+Please contact me via email at alexandru[at]wubi.co <br>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
