@@ -62,7 +62,7 @@ Please contact me via email at alexandru[at]wubi.co <br>
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/coserea-alexandru
 [discord-shield]: https://img.shields.io/discord/438065696002277386?label=DISCORD&style=for-the-badge
-[discord-url]: https://discord.gg/36RHWU9
+[discord-url]: https://discord.com/invite/wubi
 [website-shield]: https://img.shields.io/badge/WEBSITE-grey?style=for-the-badge
 [website-url]: https://quikr.to/
 [website-status]: https://img.shields.io/badge/STATUS-OFFLINE-red?style=for-the-badge
