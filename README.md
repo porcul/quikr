@@ -36,12 +36,12 @@ If you need help or have any questions you are free to ask us by email at contac
 5. How long is my data stored?<br>
 All stored data is stored for a maximum of 12 months since the user was last active, and is being stored in a remote secure location.
 
-6. Is there a mobile version avaialbe?
+6. Is there a mobile version avaialbe?<br>
 Quikr website is mobile friendly, and can be used on any device that has a connection to the internet.
-
+<br>
 Further on, you can download the official app on the <a href="https://play.google.com/store/apps/details?id=com.quikr.apps">Google Play Store</a>.
 
-7. How can I drive more traffic to and through my links?<br>
+7. How can I drive more traffic to and through my links?<br><br>
 Sharing your link on every social platform you have makes it easy for your most important content to be seen and engaged with by all of your followers. You can even use QR codes to generate online traffic in offline places, and drive people to your links.
 Once visitors arrive on your links, easy-to-understand analytics help you quickly and easily discover where they’re coming from, and what they’re clicking on. You can immediately see what’s working and what’s not and improve your links on the fly with different link placement, prioritized links, subheadings, animation, and more to make sure your traffic is landing exactly where you want it!
 
