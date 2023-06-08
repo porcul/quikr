@@ -42,7 +42,7 @@ Quikr website is mobile friendly, and can be used on any device that has a conne
 
 <b>7. How can I drive more traffic to and through my links?<br></b>
 Sharing your link on every social platform you have makes it easy for your most important content to be seen and engaged with by all of your followers. You can even use QR codes to generate online traffic in offline places, and drive people to your links.
-Once visitors arrive on your links, easy-to-understand analytics help you quickly and easily discover where they’re coming from, and what they’re clicking on. You can immediately see what’s working and what’s not and improve your links on the fly with different link placement, prioritized links, subheadings, animation, and more to make sure your traffic is landing exactly where you want it!
+<br>Once visitors arrive on your links, easy-to-understand analytics help you quickly and easily discover where they’re coming from, and what they’re clicking on. You can immediately see what’s working and what’s not and improve your links on the fly with different link placement, prioritized links, subheadings, animation, and more to make sure your traffic is landing exactly where you want it!
 
 <b>8. I am looking forward to delete my data. What can i do?<br></b>
 Just contact us over email at contact[at]quikr.to. <br>
