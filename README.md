@@ -65,4 +65,4 @@ Please contact me via email at alexandru[at]wubi.co <br>
 [discord-url]: https://discord.com/invite/wubi
 [website-shield]: https://img.shields.io/badge/WEBSITE-grey?style=for-the-badge
 [website-url]: https://quikr.to/
-[website-status]: https://img.shields.io/badge/STATUS-OFFLINE-red?style=for-the-badge
+[website-status]: https://img.shields.io/website?down_color=RED&down_message=OFFLINE&label=QUIKR.TO&style=flat-square&up_color=GREEN&up_message=ONLINE&url=https%3A%2F%2Fquikr.to
