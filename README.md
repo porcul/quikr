@@ -1,7 +1,7 @@
 [![Website][website-shield]][website-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Discord][discord-shield]][discord-url]
-![Status][website-status]
+[![Status][website-status]][website-url]
 
 <!-- PROJECT LOGO -->
 <br />
